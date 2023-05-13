@@ -82,6 +82,16 @@ public class WeightsRecord {
         this.mId = Id;
     }
 
+//    public static ArrayList<WeightsRecord> createWeightsWorkout(int numExercises) {
+//        mWeightsRecord = new ArrayList<WeightsRecord>();
+//
+//        for (int i = 1; i <= numExercises; i++) {
+//            mWeightsRecord.add(new WeightsRecord(i, "Ex A " + i, "Ty A " + i));
+//
+//        }
+//
+//        return mWeightsRecord;
+//    }
 
 
 
